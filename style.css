@@ -3,7 +3,7 @@
 /*Banner*/
 
 #banner {
-	height: 130px;
+	height: 160px;
 	width: 100%;
     background-size: cover;
     background-position: center;
@@ -186,3 +186,11 @@ h2 {
 	font-size: 25px;
 }
 
+a {
+	color: #f6dede;
+}
+
+a:hover {
+	color: purple;
+	decoration: none;
+}
