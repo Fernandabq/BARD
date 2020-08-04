@@ -1,5 +1,3 @@
-/*Import*/
-
 /*Banner*/
 
 #banner {
@@ -140,7 +138,6 @@
     align-items: center;
     justify-content: center;
     margin-top: 10px;
-
 }
 
 .footer-links a {
@@ -187,10 +184,10 @@ h2 {
 }
 
 a {
-	color: #f6dede;
+	color: #69d03f;
+	font-weight: bolder;
 }
-
 a:hover {
-	color: purple;
-	decoration: none;
+	color: #f6dede;
+	font-weight: bolder;
 }
